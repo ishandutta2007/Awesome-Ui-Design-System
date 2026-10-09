@@ -1,8 +1,10 @@
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ui-Design-System/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Ui-Design-System?style=flat-square" alt="Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ui-Design-System/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Ui-Design-System?style=flat-square" alt="Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Ui-Design-System/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Ui-Design-System?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <p align="center">
@@ -23,6 +25,8 @@ Welcome to **Awesome UI Design System**, the definitive index of commercial desi
 - [🛠️ Integration & Governance Stacks](#%EF%B8%8F-integration--governance-stacks)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [⚖️ Disclaimer & Licensing](#%EF%B8%8F-disclaimer--licensing)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -131,6 +135,25 @@ When architecting an enterprise design system solution:
 - 💡 This repository is a **community-curated index** for informational and educational purposes.
 - 🔐 Design system platforms manage brand assets and proprietary component code. Enterprise deployments require proper access governance, compliance review, and licensing verification.
 - 🤖 **AI-Ready Infrastructure**: Modern tools (Penpot, shadcn/ui, Tokens Studio) increasingly feature Model Context Protocol (MCP) integrations and CLI tooling for AI coding assistants.
+
+---
+
+## 💖 Support
+
+Thank you for exploring **Awesome UI Design System**! If you find this curated ecosystem list helpful, please consider supporting the project:
+
+- ⭐ **Star** this repository on GitHub to show your appreciation.
+- 🔀 **Fork** and contribute new design system tools, token workflows, or component libraries.
+- 📢 **Share** it with fellow design system engineers and frontend architects.
+- ☕ **Sponsor**: Buy me a coffee or support ongoing maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor"/></a>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Ui-Design-System&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Ui-Design-System&type=date&legend=top-left)
 
 ---
 
