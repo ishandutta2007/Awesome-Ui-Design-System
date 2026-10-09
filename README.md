@@ -50,63 +50,63 @@ Welcome to **Awesome UI Design System**, the definitive index of commercial desi
 
 ## ⭐ Open-Source GitHub Projects
 
-Below is a curated collection of top open-source component libraries, design systems, and token infrastructure repositories. Repositories are **sorted in descending order by GitHub star count**.
+Below is a curated collection of top open-source component libraries, design systems, and token infrastructure repositories. Repositories are **sorted in descending order by GitHub Stars_Count**.
 
-1. **[shadcn/ui](https://github.com/shadcn-ui/ui)** <a href="https://github.com/shadcn-ui/ui/stargazers"><img src="https://img.shields.io/github/stars/shadcn-ui/ui?style=social" alt="GitHub stars"/></a>  
+1. **[shadcn/ui](https://github.com/shadcn-ui/ui)** <a href="https://github.com/shadcn-ui/ui/stargazers"><img src="https://img.shields.io/github/stars/shadcn-ui/ui?style=social" alt="GitHub_Stars"/></a>  
    ⚡ **Copy-paste component architecture** built on Radix UI and Tailwind CSS. Components are copied directly into codebases for complete ownership. *MIT Licensed*.
 
-2. **[Ant Design](https://github.com/ant-design/ant-design)** <a href="https://github.com/ant-design/ant-design/stargazers"><img src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" alt="GitHub stars"/></a>  
+2. **[Ant Design](https://github.com/ant-design/ant-design)** <a href="https://github.com/ant-design/ant-design/stargazers"><img src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" alt="GitHub_Stars"/></a>  
    🏮 **Enterprise-class UI design language and React component library** created by Alibaba. Packed with rich data-entry and data-display components. *MIT Licensed*.
 
-3. **[Material UI (MUI)](https://github.com/mui/material-ui)** <a href="https://github.com/mui/material-ui/stargazers"><img src="https://img.shields.io/github/stars/mui/material-ui?style=social" alt="GitHub stars"/></a>  
+3. **[Material UI (MUI)](https://github.com/mui/material-ui)** <a href="https://github.com/mui/material-ui/stargazers"><img src="https://img.shields.io/github/stars/mui/material-ui?style=social" alt="GitHub_Stars"/></a>  
    📦 **Comprehensive React UI component library** implementing Google's Material Design. Ideal for fast production builds with extensive customizability. *MIT Licensed*.
 
-4. **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** <a href="https://github.com/tailwindlabs/tailwindcss/stargazers"><img src="https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social" alt="GitHub stars"/></a>  
+4. **[Tailwind CSS](https://github.com/tailwindlabs/tailwindcss)** <a href="https://github.com/tailwindlabs/tailwindcss/stargazers"><img src="https://img.shields.io/github/stars/tailwindlabs/tailwindcss?style=social" alt="GitHub_Stars"/></a>  
    🎨 **Utility-first CSS framework** serving as the foundational styling layer for modern design systems and atomic CSS token management. *MIT Licensed*.
 
-5. **[Storybook](https://github.com/storybookjs/storybook)** <a href="https://github.com/storybookjs/storybook/stargazers"><img src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" alt="GitHub stars"/></a>  
+5. **[Storybook](https://github.com/storybookjs/storybook)** <a href="https://github.com/storybookjs/storybook/stargazers"><img src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" alt="GitHub_Stars"/></a>  
    📖 **Industry standard workshop for building, testing, and documenting UI components** in isolation. Supports React, Vue, Angular, Svelte, and Web Components. *MIT Licensed*.
 
-6. **[Penpot](https://github.com/penpot/penpot)** <a href="https://github.com/penpot/penpot/stargazers"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub stars"/></a>  
+6. **[Penpot](https://github.com/penpot/penpot)** <a href="https://github.com/penpot/penpot/stargazers"><img src="https://img.shields.io/github/stars/penpot/penpot?style=social" alt="GitHub_Stars"/></a>  
    ✏️ **Open-source vector design & prototyping tool** built on web standards (SVG/CSS). Features native W3C design tokens and MCP AI server support. *MPL-2.0 Licensed*.
 
-7. **[Vuetify](https://github.com/vuetifyjs/vuetify)** <a href="https://github.com/vuetifyjs/vuetify/stargazers"><img src="https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social" alt="GitHub stars"/></a>  
+7. **[Vuetify](https://github.com/vuetifyjs/vuetify)** <a href="https://github.com/vuetifyjs/vuetify/stargazers"><img src="https://img.shields.io/github/stars/vuetifyjs/vuetify?style=social" alt="GitHub_Stars"/></a>  
    🟢 **Vue.js Material Design component framework** providing hand-crafted, accessible UI elements for Vue 3 applications. *MIT Licensed*.
 
-8. **[Chakra UI](https://github.com/chakra-ui/chakra-ui)** <a href="https://github.com/chakra-ui/chakra-ui/stargazers"><img src="https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social" alt="GitHub stars"/></a>  
+8. **[Chakra UI](https://github.com/chakra-ui/chakra-ui)** <a href="https://github.com/chakra-ui/chakra-ui/stargazers"><img src="https://img.shields.io/github/stars/chakra-ui/chakra-ui?style=social" alt="GitHub_Stars"/></a>  
    ⚡ **Simple, modular, and accessible React component library** designed for rapid UI creation with intuitive style props. *MIT Licensed*.
 
-9. **[Mantine](https://github.com/mantinedev/mantine)** <a href="https://github.com/mantinedev/mantine/stargazers"><img src="https://img.shields.io/github/stars/mantinedev/mantine?style=social" alt="GitHub stars"/></a>  
+9. **[Mantine](https://github.com/mantinedev/mantine)** <a href="https://github.com/mantinedev/mantine/stargazers"><img src="https://img.shields.io/github/stars/mantinedev/mantine?style=social" alt="GitHub_Stars"/></a>  
    🛡️ **Full-featured React component library** with 100+ customizable components and hooks out of the box. *MIT Licensed*.
 
-10. **[Fluent UI (Microsoft)](https://github.com/microsoft/fluentui)** <a href="https://github.com/microsoft/fluentui/stargazers"><img src="https://img.shields.io/github/stars/microsoft/fluentui?style=social" alt="GitHub stars"/></a>  
+10. **[Fluent UI (Microsoft)](https://github.com/microsoft/fluentui)** <a href="https://github.com/microsoft/fluentui/stargazers"><img src="https://img.shields.io/github/stars/microsoft/fluentui?style=social" alt="GitHub_Stars"/></a>  
     🪟 **Microsoft's cross-platform design system** delivering consistent UX across Web, Windows, iOS, and Android applications. *MIT Licensed*.
 
-11. **[Radix UI Primitives](https://github.com/radix-ui/primitives)** <a href="https://github.com/radix-ui/primitives/stargazers"><img src="https://img.shields.io/github/stars/radix-ui/primitives?style=social" alt="GitHub stars"/></a>  
+11. **[Radix UI Primitives](https://github.com/radix-ui/primitives)** <a href="https://github.com/radix-ui/primitives/stargazers"><img src="https://img.shields.io/github/stars/radix-ui/primitives?style=social" alt="GitHub_Stars"/></a>  
     🧱 **Unstyled, accessible UI component primitives** for React. Serves as the building block for custom design systems. *MIT Licensed*.
 
-12. **[Material Components Web](https://github.com/material-components/material-components-web)** <a href="https://github.com/material-components/material-components-web/stargazers"><img src="https://img.shields.io/github/stars/material-components/material-components-web?style=social" alt="GitHub stars"/></a>  
+12. **[Material Components Web](https://github.com/material-components/material-components-web)** <a href="https://github.com/material-components/material-components-web/stargazers"><img src="https://img.shields.io/github/stars/material-components/material-components-web?style=social" alt="GitHub_Stars"/></a>  
     🌐 **Google's reference web implementation of Material Design** components. *Apache-2.0 Licensed*.
 
-13. **[Evergreen (Segment)](https://github.com/segmentio/evergreen)** <a href="https://github.com/segmentio/evergreen/stargazers"><img src="https://img.shields.io/github/stars/segmentio/evergreen?style=social" alt="GitHub stars"/></a>  
+13. **[Evergreen (Segment)](https://github.com/segmentio/evergreen)** <a href="https://github.com/segmentio/evergreen/stargazers"><img src="https://img.shields.io/github/stars/segmentio/evergreen?style=social" alt="GitHub_Stars"/></a>  
     🌲 **Segment's React UI framework** crafted for building enterprise web applications. *MIT Licensed*.
 
-14. **[StyleX (Meta)](https://github.com/facebook/stylex)** <a href="https://github.com/facebook/stylex/stargazers"><img src="https://img.shields.io/github/stars/facebook/stylex?style=social" alt="GitHub stars"/></a>  
+14. **[StyleX (Meta)](https://github.com/facebook/stylex)** <a href="https://github.com/facebook/stylex/stargazers"><img src="https://img.shields.io/github/stars/facebook/stylex?style=social" alt="GitHub_Stars"/></a>  
     ♾️ **Meta's atomic CSS-in-JS styling engine** powering Facebook and WhatsApp design token distribution. *MIT Licensed*.
 
-15. **[Carbon Components (IBM)](https://github.com/ibm/carbon-components)** <a href="https://github.com/ibm/carbon-components/stargazers"><img src="https://img.shields.io/github/stars/ibm/carbon-components?style=social" alt="GitHub stars"/></a>  
+15. **[Carbon Components (IBM)](https://github.com/ibm/carbon-components)** <a href="https://github.com/ibm/carbon-components/stargazers"><img src="https://img.shields.io/github/stars/ibm/carbon-components?style=social" alt="GitHub_Stars"/></a>  
     🔵 **IBM's open-source design system** supporting React, Angular, Vue, and Svelte frontend ecosystems. *Apache-2.0 Licensed*.
 
-16. **[Panda CSS](https://github.com/chakra-ui/panda)** <a href="https://github.com/chakra-ui/panda/stargazers"><img src="https://img.shields.io/github/stars/chakra-ui/panda?style=social" alt="GitHub stars"/></a>  
+16. **[Panda CSS](https://github.com/chakra-ui/panda)** <a href="https://github.com/chakra-ui/panda/stargazers"><img src="https://img.shields.io/github/stars/chakra-ui/panda?style=social" alt="GitHub_Stars"/></a>  
     🐼 **Build-time type-safe CSS-in-JS engine** designed for atomic styling and design token generation. *MIT Licensed*.
 
-17. **[Primer (GitHub)](https://github.com/primer/react)** <a href="https://github.com/primer/react/stargazers"><img src="https://img.shields.io/github/stars/primer/react?style=social" alt="GitHub stars"/></a>  
+17. **[Primer (GitHub)](https://github.com/primer/react)** <a href="https://github.com/primer/react/stargazers"><img src="https://img.shields.io/github/stars/primer/react?style=social" alt="GitHub_Stars"/></a>  
     🐙 **GitHub's official React design system** delivering accessible components matching GitHub's product look and feel. *MIT Licensed*.
 
-18. **[Tokens Studio Figma Plugin](https://github.com/tokens-studio/figma-plugin)** <a href="https://github.com/tokens-studio/figma-plugin/stargazers"><img src="https://img.shields.io/github/stars/tokens-studio/figma-plugin?style=social" alt="GitHub stars"/></a>  
+18. **[Tokens Studio Figma Plugin](https://github.com/tokens-studio/figma-plugin)** <a href="https://github.com/tokens-studio/figma-plugin/stargazers"><img src="https://img.shields.io/github/stars/tokens-studio/figma-plugin?style=social" alt="GitHub_Stars"/></a>  
     🔌 **Open-source Figma plugin repository** for managing design tokens and syncing token files with Git repositories. *MIT Licensed*.
 
-19. **[GOV.UK Design System](https://github.com/alphagov/govuk-design-system)** <a href="https://github.com/alphagov/govuk-design-system/stargazers"><img src="https://img.shields.io/github/stars/alphagov/govuk-design-system?style=social" alt="GitHub stars"/></a>  
+19. **[GOV.UK Design System](https://github.com/alphagov/govuk-design-system)** <a href="https://github.com/alphagov/govuk-design-system/stargazers"><img src="https://img.shields.io/github/stars/alphagov/govuk-design-system?style=social" alt="GitHub_Stars"/></a>  
     🏛️ **UK Government digital service design system** focused on public sector accessibility standards. *MIT Licensed*.
 
 ---
@@ -124,7 +124,7 @@ When architecting an enterprise design system solution:
 ## 🤝 How to Contribute
 
 1. 🍴 Fork the repository.
-2. 📝 Add or edit entries in `README.md` maintaining table/list structure and star badges.
+2. 📝 Add or edit entries in `README.md` maintaining table/list structure and Stars_Badges.
 3. 📌 Ensure entries include official links, factual descriptions, pricing/licensing context, and repository tags.
 4. 🚀 Submit a Pull Request with a clear description of changes.
 
